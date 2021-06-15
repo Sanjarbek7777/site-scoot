@@ -33,8 +33,8 @@ body{
 .site-nav__contents{
   display: flex;
   align-items: center;
-  padding-top: 34px;
-  padding-bottom: 34px;
+  padding-top: 22px;
+  padding-bottom: 22px;
 }
 
 .site-header__list{
